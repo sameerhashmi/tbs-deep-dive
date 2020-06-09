@@ -1,0 +1,6 @@
+source:
+  git:
+    url: https://github.com/sameerhashmi/node-todo
+    revision: master
+image:
+  tag: index.docker.io/sameerhashmi/node-todo
