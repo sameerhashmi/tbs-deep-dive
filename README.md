@@ -1,4 +1,4 @@
-# Tanzu Build Service - Deep Dives
+# Tanzu Build Service - Deep Dive
 
 The goal of this repository is to provide guidance to Solutions Engineers on Tanzu Build Service.  The goal here is provide demos and scripts for different level of interaction.
 
@@ -12,9 +12,9 @@ The goal of this repository is to provide guidance to Solutions Engineers on Tan
 
 - Level 100 - [First Interaction](jupyter-scripts/TBS-100-Installation-Demo.ipynb)
   - Installation of Tanzu Build Service - (Automated & Manual)
-  - Project setup
+  - Tanzu Build Service Project setup
   - Application Setup
-  - Configure TBS with a CD Tool
+  - Configure TBS with a ArgoCD for complete CI/CD
 
 - Level 200 - Demonstrate TBS features
   - Updating TBS  
